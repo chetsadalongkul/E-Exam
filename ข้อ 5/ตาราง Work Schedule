@@ -1,0 +1,4 @@
+- schedule_id PK
+- employee_id FK
+- shift_id FK
+- work_date
