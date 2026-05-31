@@ -1,0 +1,5 @@
+- shift_id PK
+- shift_name
+- start_time
+- end_time
+- allowance_rate
