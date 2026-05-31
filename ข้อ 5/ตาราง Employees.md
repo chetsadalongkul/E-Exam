@@ -1,3 +1,3 @@
-employee_id PK
-name
-department
+- employee_id PK
+- name
+- department
