@@ -1,11 +1,11 @@
-Masking Data
+# Masking Data
    - ซ่อนข้อมูลส่วนบุคคล เช่น ชื่อ เลขบัตรประชาชน
 
-Role-Based Access Control
+# Role-Based Access Control
    - จำกัดสิทธิ์การเข้าถึงเฉพาะ HR และผู้เกี่ยวข้อง
 
-Encryption
+# Encryption
    - เข้ารหัสข้อมูลทั้งขณะจัดเก็บและขณะส่งข้อมูล
 
-Audit Log
+# Audit Log
    - บันทึกประวัติการเข้าถึงและการใช้งานข้อมูล
